@@ -5,15 +5,11 @@
     box-sizing: border-box;
 }
 body {
-    margin: 0;
-    padding: 0;
-    background-color: #222; /* Your dark background color */
-    
-    /* These 4 lines do the magic */
+    background: #222;
     display: flex;
-    justify-content: center;  /* Centers horizontally */
-    align-items: center;      /* Centers vertically */
-    min-height: 100vh;        /* Forces the body to take full screen height */
+    justify-content: center;  
+    align-items: center;      
+    min-height: 100vh;        
 }
 .card{
     width:90%;

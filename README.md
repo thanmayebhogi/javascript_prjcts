@@ -32,3 +32,14 @@ To explore or run any of these projects on your local machine, follow these step
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/thanmayebhogi/javascript_prjcts.git](https://github.com/thanmayebhogi/javascript_prjcts.git)
+
+  ## 📁 Repository Structure
+
+| Folder Name | Files Included |
+| :--- | :--- |
+| **🧮 Calculator** | `index.html`, `style.css`, `script.js` |
+| **🔑 Password Generator** | `index.html`, `style.css`, `script.js` |
+| **📝 Quiz App** | `index.html`, `style.css`, `script.js` |
+| **🔊 TextToSpeech** | `index.html`, `style.css`, `script.js` |
+| **🌤️ Weather App** | `index.html`, `style.css`, `script.js` |
+

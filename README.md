@@ -4,15 +4,15 @@ Welcome to my repository of beginner-to-intermediate JavaScript projects! This c
 
 ---
 
-## 📁 Projects Included
+## 📁 Projects Dashboard
 
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🔊 TextToSpeech** | Converts user-inputted text into spoken audio using the Web Speech API. | HTML, CSS, JavaScript |
-| **🧮 Calculator** | A fully functional, responsive calculator for basic arithmetic operations. | HTML, CSS, JavaScript |
-| **🔑 Password Generator** | A utility tool to generate secure, randomized passwords based on user preferences. | HTML, CSS, JavaScript |
-| **📝 Quiz App** | An interactive multiple-choice quiz application with score tracking. | HTML, CSS, JavaScript |
-| **🌤️ Weather App** | Fetches and displays real-time weather data based on user location queries. | HTML, CSS, REST API |
+| Project Name | Description | Tech Stack | Live Demo |
+| :--- | :--- | :--- | :--- |
+| **🔊 TextToSpeech** | Converts user-inputted text into spoken audio using the Web Speech API. | HTML, CSS, JavaScript | [🚀 Launch App](https://thanmayebhogi.github.io/javascript_prjcts/TextToSpeech/) |
+| **🧮 Calculator** | A fully functional, responsive calculator for basic arithmetic operations. | HTML, CSS, JavaScript | [🚀 Launch App](https://thanmayebhogi.github.io/javascript_prjcts/calculator/) |
+| **🔑 Password Generator** | A utility tool to generate secure, randomized passwords based on user preferences. | HTML, CSS, JavaScript | [🚀 Launch App](https://thanmayebhogi.github.io/javascript_prjcts/passwordGenerator/) |
+| **📝 Quiz App** | An interactive multiple-choice quiz application with score tracking. | HTML, CSS, JavaScript | [🚀 Launch App](https://thanmayebhogi.github.io/javascript_prjcts/quiz_app/) |
+| **🌤️ Weather App** | Fetches and displays real-time weather data based on user location queries. | HTML, CSS, REST API | [🚀 Launch App](https://thanmayebhogi.github.io/javascript_prjcts/weather_app/) |
 
 ---
 

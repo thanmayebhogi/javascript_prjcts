@@ -1,34 +1,33 @@
-# Frontend Projects Collection 🚀
+# JavaScript Projects Collection 🚀
 
-A small collection of vanilla HTML, CSS, and JavaScript projects. Each folder is a standalone mini-app that can be opened directly in a browser.
-
----
-
-## 📊 Project Overview
-
-| Folder | Project | Entry File | What it does |
-| :--- | :--- | :--- | :--- |
-| **Calculator** | Calculator | `cal.html` | Basic calculator with number and operator buttons |
-| **Digital_clock** | Digital Clock | `d.html` | Live clock display with AM/PM formatting |
-| **Image Slider** | Image Slider | `i.html` | Manual image carousel with previous and next controls |
-| **PasswordGenerator** | Random Password Generator | `p.html` | Generates passwords with custom options |
-| **PokemonFetcher** | Pokémon Fetcher | `fetch.html` | Fetches and displays Pokémon sprite data from the PokéAPI |
-| **Rock-Paper-Scissors** | Rock Paper Scissors | `rock.html` | Play against the computer, track scores, and autoplay |
-| **stopWatch** | Stopwatch | `stop.html` | Start, stop, and reset stopwatch timer |
-| **Temperature_convertor** | Temperature Converter | `t1.html` | Convert temperatures between Celsius and Fahrenheit |
-| **WeatherApp** | Weather App | `w1.html` | Search a city and display real-time weather information |
+Welcome to my repository of beginner-to-intermediate JavaScript projects! This collection is designed to practice and showcase core web development concepts, DOM manipulation, APIs, and asynchronous JavaScript.
 
 ---
 
-## 🛠️ What’s Included
+## 📁 Projects Included
 
-* Pure frontend projects with no build steps or installations required.
-* Organized structure with separate HTML, CSS, and JavaScript files for easy editing.
-* A mix of interactive UI components, utility tools, and API-driven applications.
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🔊 TextToSpeech** | Converts user-inputted text into spoken audio using the Web Speech API. | HTML, CSS, JavaScript |
+| **🧮 Calculator** | A fully functional, responsive calculator for basic arithmetic operations. | HTML, CSS, JavaScript |
+| **🔑 Password Generator** | A utility tool to generate secure, randomized passwords based on user preferences. | HTML, CSS, JavaScript |
+| **📝 Quiz App** | An interactive multiple-choice quiz application with score tracking. | HTML, CSS, JavaScript |
+| **🌤️ Weather App** | Fetches and displays real-time weather data based on user location queries. | HTML, CSS, REST API |
 
 ---
 
-## 🚀 How To Run
+## 🛠️ Features & Concepts Practiced
+
+* **DOM Manipulation:** Dynamically updating UI elements, handling events, and managing user inputs.
+* **Asynchronous JS:** Working with promises and fetching live data from external APIs (Weather App).
+* **Browser APIs:** Leveraging built-in native APIs like the `SpeechSynthesis` interface.
+* **Responsive Design:** Using CSS Grid and Flexbox to ensure projects look great on both desktop and mobile screens.
+
+---
+
+## 🚀 How to Run the Projects Locally
+
+To explore or run any of these projects on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
